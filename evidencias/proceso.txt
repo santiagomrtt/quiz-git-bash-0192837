@@ -1,0 +1,1 @@
+durante el quiz he creado un repositorio, creado un proyecto de bash, construi la estructura que el profesor indico, he usado echo para escribir dentro de los archivos lo que se me pidio
