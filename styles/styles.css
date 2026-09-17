@@ -1,0 +1,16 @@
+.loading{
+    font-size: 1.2;
+    text-align: center;
+
+}
+.loading__anim{
+    width: 35px;
+    height: 35px;
+    display: inline-block;
+    border: 5px solid rgba(7, 143, 78, 1);
+    border-left-color: brown;
+    border-top-color: brown;
+    border-radius: 50%;
+    display:block;
+
+}
