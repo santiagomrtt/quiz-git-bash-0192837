@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
     display: flex;
     justify-content: center;
@@ -33,3 +34,21 @@ body {
 }
 
 @keyframes rotate {to {transform: rotate(1turn);}}
+=======
+.loading{
+    font-size: 1.2;
+    text-align: center;
+
+}
+.loading__anim{
+    width: 35px;
+    height: 35px;
+    display: inline-block;
+    border: 5px solid rgba(7, 143, 78, 1);
+    border-left-color: brown;
+    border-top-color: brown;
+    border-radius: 50%;
+    display:block;
+
+}
+>>>>>>> 6a89b8fac8e49c9509f8ffe24a50e5f83bc5571b
